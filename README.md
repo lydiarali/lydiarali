@@ -1,4 +1,6 @@
-### Hi there 👋
+<iframe src="https://giphy.com/embed/ZqOGQO6ZMSqUYDHj0T" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bangcreativo-code-programmer-coder-ZqOGQO6ZMSqUYDHj0T">via GIPHY</a></p>
+
+## Hi there 👋
 
 My name is Lydia and I am new to software development.
 
