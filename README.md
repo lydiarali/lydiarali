@@ -1,11 +1,12 @@
-<iframe src="https://giphy.com/embed/ZqOGQO6ZMSqUYDHj0T" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bangcreativo-code-programmer-coder-ZqOGQO6ZMSqUYDHj0T">via GIPHY</a></p>
+<div id="header" align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmlmamFycmdzcTAxcXg4dzd4b2w2OGNyNjk0Y2x0aWZvZWZ1aDE0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZqOGQO6ZMSqUYDHj0T/giphy.gif" width="100">
+</div>
 
 ## Hi there 👋
 
 My name is Lydia and I am new to software development.
 
 - 🔭 About me: I'm a curious mind, I know a little about a lot of things! I have worked in Sales, in HR and in Project Management, and the more time I spent working in the IT industry, the more I wanted to specialise in this field.
-- 🌱 I’m currently learning java @ the DCI for the next year, and have started learning python on my own.
+- 🌱 I’m currently learning *java* @ the DCI for the next year, and have started learning *python* on my own.
 
 - 📫 How to reach me **lydia.banks@dci-student.org**
 
